@@ -33,11 +33,18 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
    ```bash
    git clone https://github.com/carywoods/melladee.git
 
-2. make folder for images
+2. Make folder for images
     ```bash
     mkdir images
 
-3. make folder for music
+3. Make folder for music
     ```bash
    mkdir mp3s
-   
+
+4. Run in terminal
+    ```base
+    python melladee.py
+
+### Recommendations
+Virtualizing your environment is recommended (Conda, etc).
+
