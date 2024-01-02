@@ -1,8 +1,7 @@
 # Melladee community edition
 Community Edition of Melladee. Melladee is an open-source multimedia application that synchronizes MP3 music playback with a JPEG image slideshow, creating immersive audio-visual experiences for both personal and professional use.  Current version 0.1 
-    
-    
-    <img src="https://raw.githubusercontent.com/carywoods/melladee_community/main/Design.png" width="500" height="600">
+
+![](https://raw.githubusercontent.com/carywoods/melladee_community/main/Design.png) 
 
 # Melladee
 
