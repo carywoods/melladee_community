@@ -44,7 +44,7 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
    mkdir mp3s
 
 4. Run in terminal
-    ```base
+    ```bash
     python melladee.py
 
 ### Recommendations
