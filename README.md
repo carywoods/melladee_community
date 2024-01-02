@@ -41,7 +41,7 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
 
 3. Make folder for music
     ```bash
-   mkdir mp3s
+    mkdir mp3s
 
 4. Run in terminal
     ```bash
