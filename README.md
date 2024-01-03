@@ -32,19 +32,19 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
 ### Setting Up Melladee
 
 1. Clone the Melladee repository:
-   ```bash
+   
    git clone https://github.com/carywoods/melladee.git
 
 2. Make folder for images & add pics
-    ```bash
+   
     mkdir images
 
 3. Make folder for music & add mp3s
-    ```bash
+  
     mkdir mp3s
 
-4. Run in terminal
-    ```bash
+6. Run in terminal
+    
     python melladee.py
 
 ### Recommendations
