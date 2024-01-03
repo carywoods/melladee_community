@@ -35,11 +35,11 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
    ```bash
    git clone https://github.com/carywoods/melladee.git
 
-2. Make folder for images
+2. Make folder for images & add pics
     ```bash
     mkdir images
 
-3. Make folder for music
+3. Make folder for music & add mp3s
     ```bash
     mkdir mp3s
 
