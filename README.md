@@ -55,5 +55,5 @@ Virtualizing your environment is recommended (Conda, etc).
 
 The Windows binary can be downloaded in zip format here (Windows 10 & 11)
 
-[Unzip and used the executible and put media in the folders](https://drive.google.com/file/d/1B7sZqFAFe6Jrima-imeYNv2NQ4MF9ECI/view?usp=sharing)
+[Unzip and use the executible. Put media in the folders](https://drive.google.com/file/d/1B7sZqFAFe6Jrima-imeYNv2NQ4MF9ECI/view?usp=sharing)
 
