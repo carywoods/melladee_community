@@ -44,10 +44,16 @@ Ensure that Python 3.x is installed on your system. You can download it from [py
     mkdir mp3s
 
 6. Run in terminal
-    
     python melladee.py
+
+The 
 
 ### Recommendations
 Virtualizing your environment is recommended (Conda, etc).
 
 [Source code](https://github.com/carywoods/melladee_community)
+
+The Windows binary can be downloaded in zip format here (Windows 10 & 11)
+
+[Unzip and used the executible and put media in the folders](https://drive.google.com/file/d/1B7sZqFAFe6Jrima-imeYNv2NQ4MF9ECI/view?usp=sharing)
+
