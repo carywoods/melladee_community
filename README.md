@@ -3,6 +3,9 @@ Community Edition of Melladee. Melladee is an open-source multimedia application
 
 ![](https://raw.githubusercontent.com/carywoods/melladee_community/main/Design.png) 
 
+Support forum is on reddit
+[Reddit Forum](https://www.reddit.com/r/melladee/)
+
 # Melladee
 
 Melladee is an open-source multimedia application that seamlessly synchronizes MP3 music playback with a JPEG image slideshow, offering an immersive audio-visual experience suitable for both personal and professional environments.
